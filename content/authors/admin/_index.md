@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tianyu Zhang
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include Algorithmic Game Theory, Agent-based Model Simulator, AI for Climate Change, Multi-agent Reinforcement Learning, Self-supervised Learning, Domain Adaptation. I am still exploring and learning slowly.
 
 # Interests to show in About widget
-interests:
+Acdemic interests:
   - Deep Learning
   - Computational Neuroscience
   - Drug/Material Discovery
@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Academic_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'tianyu.zhang[A.T.]mila.quebec'
@@ -73,4 +73,4 @@ highlight_name: True
 
 Tianyu Zhang is a Ph.D. student supervised by Prof. Yoshua Bengio. His research interests include Algorithmic Game Theory, Agent-based Model Simulator, AI for Climate Change, Multi-agent Reinforcement Learning, Self-supervised Learning, Domain Adaptation, etc. Previously, he worked as a quantitative researcher in financial engineering. Please feel free to contact him if you are interested in his work.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
