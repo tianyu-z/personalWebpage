@@ -29,8 +29,12 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Game Theory
+      tag: Game Theory
+    - name: Market Mechanism
+      tag: Market Mechanism
+    - name: Economics
+    - tag: Economics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
