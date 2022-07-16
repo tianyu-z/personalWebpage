@@ -44,16 +44,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tianyuzhang@duck.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/tianyu_zh
+    link: 'mailto:tianyu.zhang@mila.quebec'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=jZUQSnYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/tianyu-z
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/a/zhang_t_6.html
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4410-1343
+  - icon: ssrn
+    icon_pack: ai
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5209244
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/tianyu_zh
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tianyu-zhang-ai

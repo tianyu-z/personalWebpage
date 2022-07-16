@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Multi-agent reinforcement learning for renewable integration in the electric power grid'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
