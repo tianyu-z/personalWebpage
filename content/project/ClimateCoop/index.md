@@ -1,6 +1,6 @@
 ---
 title: AI for Global Climate Cooperation
-summary: Design Negotiation Protocol for Climate Club
+summary: Design negotiation protocol for climate club
 tags:
   - Deep Learning
   - Game Theory
