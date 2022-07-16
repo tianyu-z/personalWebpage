@@ -39,7 +39,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *arXiv.org*
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
 abstract: Insufficient Social Cost of Carbon (SCC) estimation methods and short-term decision-making horizons have hindered the ability of carbon emitters to properly correct for the negative externalities of climate change, as well as the capacity of nations to balance economic and climate policy. To overcome these limitations, we introduce Retrospective Social Cost of Carbon Updating (ReSCCU), a novel mechanism that corrects for these limitations as empirically measured evidence is collected. To implement ReSCCU in the context of carbon taxation, we propose Retroactive Carbon Pricing (ReCaP), a market mechanism in which polluters offload the payment of ReSCCU adjustments to insurers. To alleviate systematic risks and minimize government involvement, we introduce the Private ReCaP (PReCaP) prediction market, which could see real-world implementation based on the engagement of a few high net-worth individuals or independent institutions.
 
