@@ -37,8 +37,6 @@ content:
       tag: Game Theory
     - name: Market Mechanism
       tag: Market Mechanism
-    - name: Economics
-      tag: Economics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

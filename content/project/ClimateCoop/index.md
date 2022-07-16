@@ -5,7 +5,6 @@ tags:
   - Deep Learning
   - Game Theory
   - Market Mechanism
-  - Economics
   - MARL
 # date: '2016-04-27T00:00:00Z'
 
