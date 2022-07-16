@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: '(Private)-Retroactive Carbon Pricing [(P)ReCaP]: A Market-based Approach for Climate Finance and Risk Assessment'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
