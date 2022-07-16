@@ -17,8 +17,10 @@ organizations:
 bio: My research interests include Algorithmic Game Theory, Agent-based Model Simulator, AI for Climate Change, Multi-agent Reinforcement Learning, Self-supervised Learning, Domain Adaptation. I am still exploring and learning slowly.
 
 # Interests to show in About widget
-Acdemic interests:
-  - Deep Learning
+Academic interests:
+  - Modular Deep Learning
+  - Multi-agent Cooperation
+  - Game Theory
   - Computational Neuroscience
   - Drug/Material Discovery
 
@@ -57,9 +59,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4410-1343
-  - icon: ssrn
-    icon_pack: ai
-    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5209244
+  # - icon: ssrn
+  #   icon_pack: ai
+  #   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5209244
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tianyu_zh
