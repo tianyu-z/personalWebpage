@@ -1,10 +1,10 @@
 ---
 title: Multi Agent Cooperation in Game Theory
-summary: An example of using the in-built project page.
+summary: Scalable solutions to a cooperate-cooperate equilibrium
 tags:
   - Deep Learning
   - Game Theory
-date: '2016-04-27T00:00:00Z'
+# date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -31,4 +31,4 @@ url_video: ''
 # slides: example
 ---
 
-Developed based on [LOLA](https://arxiv.org/abs/1709.04326) and [MCTS](https://arxiv.org/abs/2103.04931), the goal is to find a mechanism for the so that the agents can converge to a cooperate-cooperate equilibrium in game like the coin game or prisoner's dilemma game. We aim to find a scalable solution.
+Developed based on [LOLA](https://arxiv.org/abs/1709.04326) and [MCTS](https://arxiv.org/abs/2103.04931), the goal is to find a mechanism for the so that the agents can converge to a cooperate-cooperate equilibrium in game such as the coin game or prisoner's dilemma game. We aim to find a scalable solution.

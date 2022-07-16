@@ -1,9 +1,9 @@
 ---
 title: Audio CLIP
-summary: An example of using the in-built project page.
+summary: Train a CLIP-like large model for audio-image-text domains and use it to guide DALL-E 2 style generative models.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+# date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
