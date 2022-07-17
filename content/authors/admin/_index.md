@@ -84,4 +84,4 @@ highlight_name: True
 
 Tianyu Zhang is a Ph.D. student supervised by {{< staticref "https://yoshuabengio.org/" "newtab" >}}Prof. Yoshua Bengio{{< /staticref >}}. His research interests include Algorithmic Game Theory, Agent-based Model Simulator, AI for Climate Change, Multi-agent Reinforcement Learning, Modular Deep Learning etc. Previously, he worked as a quantitative researcher in financial engineering. Please feel free to contact him if you are interested in his work.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
