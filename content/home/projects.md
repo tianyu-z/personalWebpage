@@ -31,8 +31,6 @@ content:
       tag: Deep Learning
     - name: Multi-agent Cooperation
       tag: MARL
-    - name: Modular DL
-      tag: Modular DL
     - name: Game Theory
       tag: Game Theory
     - name: Market Mechanism
