@@ -9,7 +9,7 @@ authors:
   - Philippe Maisonneuve
   - admin
   - Hadi Nekoei
-  -  Liam Paull
+  - Liam Paull
   - Antoine Lesage-Landry
 
 # Author notes (optional)

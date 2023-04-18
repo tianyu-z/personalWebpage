@@ -11,6 +11,7 @@ authors:
   - Yuchen Hui 
   - Taylor Berg-Kirkpatrick
   - Shlomo Dubnov
+
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
@@ -39,7 +40,7 @@ abstract: Contrastive learning has shown remarkable success in the field of mult
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Audio and Speech Processing]
+tags: [Deep Learning]
 
 # Display this page in the Featured widget?
 featured: true
