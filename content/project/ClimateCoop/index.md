@@ -1,5 +1,5 @@
 ---
-title: RICE-N: AI for Global Climate Cooperation
+title: RICE-N | AI for Global Climate Cooperation
 summary: Design negotiation protocol for climate club
 tags:
   - Deep Learning

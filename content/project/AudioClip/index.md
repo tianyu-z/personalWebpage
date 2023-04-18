@@ -1,6 +1,6 @@
 ---
-title: CLAP: Audio CLIP
-summary: Train a CLIP-like large model for audio-image-text domains and use it to guide DALL-E 2 style generative models.
+title: CLAP
+summary: Train a CLIP-like large model for audio-text domains
 tags:
   - Deep Learning
 # date: '2016-04-27T00:00:00Z'
@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-Train a CLIP-like large model for audio-image-text domains and use it to guide DALL-E 2 style generative models.
+Contrastive learning has shown remarkable success in the field of multimodal representation learning. In this paper, we propose a pipeline of contrastive language-audio pretraining to develop an audio representation by combining audio data with natural language descriptions. To accomplish this target, we first release LAION-Audio-630K, a large collection of 633,526 audio-text pairs from different data sources. Second, we construct a contrastive language-audio pretraining model by considering different audio encoders and text encoders. We incorporate the feature fusion mechanism and keyword-to-caption augmentation into the model design to further enable the model to process audio inputs of variable lengths and enhance the performance. Third, we perform comprehensive experiments to evaluate our model across three tasks: text-to-audio retrieval, zero-shot audio classification, and supervised audio classification. The results demonstrate that our model achieves superior performance in text-to-audio retrieval task. In audio classification tasks, the model achieves state-of-the-art performance in the zero-shot setting and is able to obtain performance comparable to models' results in the non-zero-shot setting. LAION-Audio-630K and the proposed model are both available to the public.
