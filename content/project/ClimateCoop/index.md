@@ -1,5 +1,5 @@
 ---
-title: AI for Global Climate Cooperation
+title: RICE-N: AI for Global Climate Cooperation
 summary: Design negotiation protocol for climate club
 tags:
   - Deep Learning
@@ -32,7 +32,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
+RICE-N simulator wins the [Netexplo Innovation Award in 2023](https://www.events.netexplo.com/forum-innovation-2023/content/rice-n).
 We believe this [competition](https://www.ai4climatecoop.org/) opens the way for beneficial contributions to several different areas in research and policy.
 
 Researchers and engineers: Whether it be in Economics, Machine Learning, Agent-based Modelling, Game Theory, Political Science, Behavioral Science, Mathematics, Computer Science, Complex Systems or any other discipline you believe to be relevant, this competition identifies and creates many opportunities for innovation. For example, negotiation protocols between different regions are one of the keys to the encourage climate mitigation. One of the goal of this competition is to design a negotiation mechanism between different regions so that agents may not only maximize their own utility but also care more about the collective goal — carbon emission mitigation We envision diversity as a strength, not a weakness. Solving problems that affect each and every person calls for transversal thinking, multifaceted contributions and collaboration.

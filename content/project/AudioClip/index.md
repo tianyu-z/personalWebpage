@@ -1,5 +1,5 @@
 ---
-title: Audio CLIP
+title: CLAP: Audio CLIP
 summary: Train a CLIP-like large model for audio-image-text domains and use it to guide DALL-E 2 style generative models.
 tags:
   - Deep Learning
