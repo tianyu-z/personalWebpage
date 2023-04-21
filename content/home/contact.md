@@ -25,7 +25,7 @@ content:
   #     captcha: true
 
   # Contact details (edit or remove options as required)
-  email: tianyu.zhang[A.T.]mila.quebec
+  email: tianyu.zhang[A..T.]mila.quebec
   phone: Available upon request # +1(929)-333-6321
   address:
     street: 6666 St-Urbain, 200
