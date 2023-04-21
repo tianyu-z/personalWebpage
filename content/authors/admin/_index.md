@@ -76,7 +76,7 @@ social:
     link: uploads/Academic_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'tianyu.zhang[A.T.]mila.quebec'
+email: 'tianyu.zhang[A..T..]mila.quebec'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: True
