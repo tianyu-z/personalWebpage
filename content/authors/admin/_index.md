@@ -27,7 +27,7 @@ Academic interests:
 # Education to show in About widget
 education:
   courses:
-    - course: [Ph.D Student in Machine Learning](https://mila.quebec/en/person/tianyu-zhang/)
+    - course: Ph.D Student in Machine Learning
       institution: MILA - Québec Institute for Artificial Intelligence
       year: 09/2021 - Present
     - course: M.Sc. in Machine Learning
