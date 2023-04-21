@@ -27,7 +27,7 @@ Academic interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D Student in Machine Learning
+    - course: [Ph.D Student in Machine Learning](https://mila.quebec/en/person/tianyu-zhang/)
       institution: MILA - Québec Institute for Artificial Intelligence
       year: 09/2021 - Present
     - course: M.Sc. in Machine Learning
@@ -82,6 +82,6 @@ email: 'tianyu.zhang[A.T.]mila.quebec'
 highlight_name: True
 ---
 
-Tianyu Zhang is a Ph.D. student supervised by {{< staticref "https://yoshuabengio.org/" "newtab" >}}Prof. Yoshua Bengio{{< /staticref >}}. He lead the RICE-N project which wins [Netexplo Innovation Award in 2023](https://www.events.netexplo.com/forum-innovation-2023/content/rice-n). His research interests include Algorithmic Game Theory, Agent-based Model Simulator, AI for Climate Change, Multi-agent Reinforcement Learning, Modular Deep Learning etc. Previously, he worked as a quantitative researcher in financial engineering. Please feel free to contact him if you are interested in his work.
+Tianyu Zhang is a Ph.D. student supervised by {{< staticref "https://yoshuabengio.org/" "newtab" >}}Prof. Yoshua Bengio{{< /staticref >}} at [Mila](https://mila.quebec/en/person/tianyu-zhang/). He lead the RICE-N project which wins [Netexplo Innovation Award in 2023](https://www.events.netexplo.com/forum-innovation-2023/content/rice-n). His research interests include Algorithmic Game Theory, Agent-based Model Simulator, AI for Climate Change, Multi-agent Reinforcement Learning, Modular Deep Learning etc. Previously, he worked as a quantitative researcher in financial engineering. Please feel free to contact him if you are interested in his work.
 
 {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/Academic_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
